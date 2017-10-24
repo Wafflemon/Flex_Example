@@ -1,0 +1,9 @@
+
+// Flex Regex Doc
+http://people.cs.aau.dk/~marius/sw/flex/Flex-Regular-Expressions.html
+
+// Flex Manual
+ftp://ftp.gnu.org/old-gnu/Manuals/flex-2.5.4/html_mono/flex.html#SEC3
+
+// Flex Download for Windows
+https://stackoverflow.com/questions/5456011/how-to-compile-lex-yacc-files-on-windows
